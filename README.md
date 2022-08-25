@@ -2,6 +2,8 @@
 
 Tämä pieni python-peli on kirjoitettu 2020 vuoden lopussa. Se on toiminut vastauksena yhtenä ohjelmoinnin jatkokurssin viimeisimmistä tehtävistä ennen tenttiä. Tehtävänannon voisi luonnehtia jotakuinkin "niillä, mitä olet oppinut, tee oma peli". Muistelen, että suurin osa kanssaopiskelijoideni peleistä, joita näin, toimivat logiikalla "liikuta hiirtä tai käytä näppäimistöä ja ohjaa hahmoasi välttelemään hirviöitä sekä kerää kolikoita"-periaatteella.
 
+Pelin tarkoitus on veikata, lähteekö robotti oikealle vai vasemmalle. Jos se osuu hirviöön, veikkaus menee väärin, ja tulee game over tai saa vähemmän kolikkoja kuin oikein veikkaamalla. Värit ovat aikamoiset. Tarkoituksella.
+
 Tässä vaiheessa koodausta olen erityisesti miettinyt ja ihmetellyt rakenteita - miten kirjoittaa ja rakentaa koodia niin, että sitä voi itse myöhemmin jatkaa, se on selkeää luettavaa kaverille (opiskelijat arvioivat toistensa koodia), miettinyt hyvän koodaamisen tapaa ja hyvän koodin palikoita.
 
 Kurssilta saatuja materiaaleja ovat png-tiedostot, jotka vakuutettiin olevan luvallisia jakaa.
